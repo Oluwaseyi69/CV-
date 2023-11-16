@@ -1,0 +1,68 @@
+
+.body, #mainContainer{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+  background: antiquewhite;
+
+}
+
+.myname{
+  display: flex;
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 50px;
+
+}
+
+.my-image{
+  display: flex;
+  width: 300px;
+  align-self: center;
+}
+
+.horiline{
+  display: flex;
+  width: 1050px;
+}
+
+.header{
+  display: flex;
+  flex-direction: column;
+}
+  
+.profile-head{
+  display: flex;
+  flex-direction: column;
+  font-size: 50px;
+  justify-content: left;
+  margin: 0px;
+  
+}
+
+.profile-text{
+  display: flex;
+  flex-direction: column;
+  max-width: 1050px;
+  font-size: 25px;
+  margin: 0px;
+
+}
+
+.profile-text1{
+  display: flex;
+  flex-direction: column;
+  max-width: 1050px;
+  font-size: 15px;
+  margin: 0px;
+
+}
+
+.education-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  
+}
